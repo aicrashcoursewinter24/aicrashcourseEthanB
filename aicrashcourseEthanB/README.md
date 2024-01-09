@@ -1,7 +1,7 @@
 aicrashcourseEthanB
 ==============================
 
-Doing AI
+Doing AI and learning how to do pull requests
 
 Project Organization
 ------------
